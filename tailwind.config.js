@@ -9,13 +9,13 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        background: '#F9F9F7',
-        ink: '#1A1A1A',
-        accent: '#556B8E',
+        background: '#F8F6EF',
+        ink: '#5B5B5B',
+        accent: '#7A715C',
       },
       fontFamily: {
-        sans: ['Inter', 'sans-serif'],
-        serif: ['"Playfair Display"', 'serif'],
+        sans: ['Open Sans', 'sans-serif'],
+        serif: ['Raleway', 'serif'],
       },
     },
   },
